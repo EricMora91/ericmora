@@ -1,0 +1,71 @@
+.navbar-container{
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+    background-color: turquoise;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "logo" "guantes" "uñas" "medias" "carrito";
+}
+
+.logo{
+    width: 25%;
+    grid-area: logo;
+}
+
+.logo:hover{
+    cursor: pointer;
+    transition: 0.1s;
+    scale: 1.1;
+}
+
+#guantes{
+    grid-area: guantes;
+}
+
+#uñas{
+    grid-area: uñas;
+}
+
+#medias{
+    grid-area: medias;
+}
+
+#carrito{
+    grid-area: carrito;
+}
+
+.botonNavbar{
+    background: transparent;
+    border: none;
+    font-size: larger;
+    color: #d9ad26;
+    text-shadow: 1px 1px 1px gray ;
+}
+
+.botonNavbar:hover{
+    color: #ffbf00;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.1s;
+    scale: 1.1;
+}
+
+@media screen and (min-width: 768px){
+    .navbar-container{
+        justify-items: center;
+        align-items: center;
+        position: fixed;
+        z-index: 1;
+        background-color: turquoise;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-areas: "logo guantes uñas medias carrito";
+    }
+
+    .logo{
+        width: 50%;
+    }
+}

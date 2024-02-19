@@ -1,0 +1,40 @@
+.itemDetail{
+    padding-top: 70%;
+    background-color: #ffe2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: goldenrod;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+}
+
+.itemContainer{
+    padding: 3%;
+    border-width: 5px;
+    border-color: goldenrod;
+    border-style: double;
+    border-radius: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgDetail{
+    width:30%;
+    border-radius: 5%;
+}
+
+.cerrar{
+    margin: 2%;
+    padding: 5px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: goldenrod;
+}
+
+.agregar{
+    background-color: #ff69bc;
+    margin-bottom: 5%;
+}
