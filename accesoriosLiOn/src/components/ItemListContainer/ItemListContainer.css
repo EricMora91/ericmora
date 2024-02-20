@@ -1,5 +1,5 @@
 .itemListContainer{
-    padding-top: 70%;
+    padding-top: 50%;
     background-color: #ffe2f2;
 }
 
@@ -9,13 +9,13 @@
 
 @media screen and (min-width: 768px){
     .itemListContainer{
-        padding-top: 15%;
+        padding-top: 11%;
     }
 }
 
 @media screen and (min-width: 1024px){
     .itemListContainer{
-        padding-top: 13%;
+        padding-top: 12%;
         background-color: #ffe2f2;
     }
 }
