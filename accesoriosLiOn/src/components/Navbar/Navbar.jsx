@@ -9,7 +9,7 @@ const Navbar = () => {
             <NavLink to="/categoría/Guantes" className="botonNavbar" id='guantes'>Guantes</NavLink>
             <NavLink to="/categoría/Uñas" className="botonNavbar" id='uñas'>Uñas</NavLink>
             <NavLink to="/categoría/Medias"className="botonNavbar" id='medias'>Medias</NavLink>
-            <NavLink to="/categoría/CartWidget"className="botonNavbar" id='carrito'><CartWidget/></NavLink>
+            <NavLink to="/cart" className="botonNavbar" id='carrito'><CartWidget/></NavLink>
         </nav>
     )
 }

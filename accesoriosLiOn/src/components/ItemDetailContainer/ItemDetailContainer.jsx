@@ -1,28 +1,45 @@
+import {useParams } from 'react-router-dom';
+import {getFirestore, doc, getDoc} from 'firebase/firestore'
+import {useState, useEffect} from 'react'
+import ItemDetail from "../ItemDetail/ItemDetail"
+import FadeLoader from "react-spinners/FadeLoader";
 import './ItemDetailContainer.css'
-import {Link, useParams } from 'react-router-dom';
-import productosJSON from "/src/productos.json"
-
-
-const ItemDetailContainer = () =>{
-
-
-    const {itemId} = useParams();
-    const detailProduct = productosJSON.find((item) => item.itemId==itemId);
-    const {imagen1, nombre, descripción, precio, stock} = detailProduct
-
-
-    return(
-        <section className="itemDetail" id={`item${itemId}`}>
-            <div className='itemContainer'>
-                <img className= "imgDetail" src={`/${imagen1}`} alt="productos" />
-                <h2>{nombre}</h2>
-                <p>{descripción}</p>
-                <h2>${precio}</h2>
-                <h6>En Stock: {stock}</h6>
-                <button className='agregar'>Agregar al carrito</button>
-                <span className='cerrar'><Link to="/">X</Link></span>
-            </div>
-        </section>)
-}
+    
+    const ItemDetailContainer = () =>{
+    
+        const {id} = useParams();
+    
+        const [productos, setProductos] = useState([]);
+        
+        const [loading, setLoading] = useState(true);
+    
+        useEffect(()=> {
+            setLoading(true)
+            const querydb = getFirestore();
+            const queryDoc = doc(querydb, 'productos', id);
+            getDoc(queryDoc)
+                .then(res => setProductos({id: res.id, ...res.data()}))
+                .finally(setTimeout(()=> {setLoading(false)}, 2000))
+        }, [id]);
+    
+        return(
+            <main> 
+                <section className="itemDetailContainer">
+                {
+                loading? 
+                <FadeLoader
+                    className='spinner'
+                    color={'goldenrod'}
+                    loading={loading}
+                    size={150}
+                    aria-label="Loading Spinner"
+                    data-testid="loader"
+                />:
+                <ItemDetail productos={productos}/>
+                }
+                </section>
+            </main>
+        )
+    }
 
 export default ItemDetailContainer

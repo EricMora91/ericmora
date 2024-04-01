@@ -1,10 +1,8 @@
 [
     {
-        "itemId": 1,
+        "id": 1,
         "nombre": "Sevilla",
-        "imagen1": "images/img1.jpg",
-        "imagen2": "images/img1768.jpg",
-        "imagen3": "images/img11024.jpg",
+        "imagen": "images/img1.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -13,11 +11,9 @@
         "stock": 20
     },
     {
-        "itemId": 2,
+        "id": 2,
         "nombre": "Ottawa",
-        "imagen1": "images/img2.jpg",
-        "imagen2": "images/img2768.jpg",
-        "imagen3": "images/img21024.jpg",
+        "imagen": "images/img2.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -26,11 +22,9 @@
         "stock": 20
     },  
     {
-        "itemId": 3,
+        "id": 3,
         "nombre": "París",
-        "imagen1": "images/img3.jpg",
-        "imagen2": "images/img3768.jpg",
-        "imagen3": "images/img31024.jpg",
+        "imagen": "images/img3.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -39,11 +33,9 @@
         "stock": 20
     },
     {
-        "itemId": 4,
+        "id": 4,
         "nombre": "Habana",
-        "imagen1": "images/img4.jpg",
-        "imagen2": "images/img4768.jpg",
-        "imagen3": "images/img41024.jpg",
+        "imagen": "images/img4.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Frio",
@@ -52,11 +44,9 @@
         "stock": 20
     },
     {
-        "itemId": 5,
+        "id": 5,
         "nombre": "Moscú",
-        "imagen1": "images/img5.jpg",
-        "imagen2": "images/img5768.jpg",
-        "imagen3": "images/img51024.jpg",
+        "imagen": "images/img5.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -65,11 +55,9 @@
         "stock": 20
     },
     {
-        "itemId": 6,
+        "id": 6,
         "nombre": "Berlín",
-        "imagen1": "images/img6.jpg",
-        "imagen2": "images/img6768.jpg",
-        "imagen3": "images/img61024.jpg",
+        "imagen": "images/img6.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -78,11 +66,9 @@
         "stock": 20
     },
     {
-        "itemId": 7,
+        "id": 7,
         "nombre": "Sidney",
-        "imagen1": "images/img7.jpg",
-        "imagen2": "images/img7768.jpg",
-        "imagen3": "images/img71024.jpg",
+        "imagen": "images/img7.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -91,11 +77,9 @@
         "stock": 20
     },
     {
-        "itemId": 8,
+        "id": 8,
         "nombre": "Oslo",
-        "imagen1": "images/img8.jpg",
-        "imagen2": "images/img8768.jpg",
-        "imagen3": "images/img81024.jpg",
+        "imagen": "images/img8.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -104,11 +88,9 @@
         "stock": 20
     },
     {
-        "itemId": 9,
+        "id": 9,
         "nombre": "Chicago",
-        "imagen1": "images/img9.jpg",
-        "imagen2": "images/img9768.jpg",
-        "imagen3": "images/img91024.jpg",
+        "imagen": "images/img9.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -117,11 +99,9 @@
         "stock": 20
     },
     {
-        "itemId": 10,
+        "id": 10,
         "nombre": "Manila",
-        "imagen1": "images/img10.jpg",
-        "imagen2": "images/img10768.jpg",
-        "imagen3": "images/img101024.jpg",
+        "imagen": "images/img10.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -130,11 +110,9 @@
         "stock": 20
     },
     {
-        "itemId": 11,
+        "id": 11,
         "nombre": "Venus",
-        "imagen1": "images/img11.jpg",
-        "imagen2": "images/img11768.jpg",
-        "imagen3": "images/img111024.jpg",
+        "imagen": "images/img11.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Especial",
         "tono": "Tono Frio",
@@ -143,11 +121,9 @@
         "stock": 20
     },
     {
-        "itemId": 12,
+        "id": 12,
         "nombre": "Urano",
-        "imagen1": "images/img12.jpg",
-        "imagen2": "images/img12768.jpg",
-        "imagen3": "images/img121024.jpg",
+        "imagen": "images/img12.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Especial",
         "tono": "Tono Cálido",
@@ -156,11 +132,9 @@
         "stock": 20
     },
     {
-        "itemId": 13,
+        "id": 13,
         "nombre": "Cali",
-        "imagen1": "images/img13.jpg",
-        "imagen2": "images/img13768.jpg",
-        "imagen3": "images/img131024.jpg",
+        "imagen": "images/img13.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -169,11 +143,9 @@
         "stock": 20
     },
     {
-        "itemId": 14,
+        "id": 14,
         "nombre": "Mercurio",
-        "imagen1": "images/img14.jpg",
-        "imagen2": "images/img14768.jpg",
-        "imagen3": "images/img141024.jpg",
+        "imagen": "images/img14.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Especial",
         "tono": "Tono Cálido",
@@ -182,11 +154,9 @@
         "stock": 20
     },
     {
-        "itemId": 15,
+        "id": 15,
         "nombre": "Venecia",
-        "imagen1": "images/img15.jpg",
-        "imagen2": "images/img15768.jpg",
-        "imagen3": "images/img151024.jpg",
+        "imagen": "images/img15.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -195,11 +165,9 @@
         "stock": 20
     },
     {
-        "itemId": 16,
+        "id": 16,
         "nombre": "Jupiter",
-        "imagen1": "images/img16.jpg",
-        "imagen2": "images/img16768.jpg",
-        "imagen3": "images/img161024.jpg",
+        "imagen": "images/img16.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Negro",
         "tono": "Tono Frio",
@@ -208,11 +176,9 @@
         "stock": 20
     },
     {
-        "itemId": 17,
+        "id": 17,
         "nombre": "Pluton",
-        "imagen1": "images/img17.jpg",
-        "imagen2": "images/img17768.jpg",
-        "imagen3": "images/img171024.jpg",
+        "imagen": "images/img17.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Negro",
         "tono": "Tono Frio",
@@ -221,11 +187,9 @@
         "stock": 20
     },
     {
-        "itemId": 18,
+        "id": 18,
         "nombre": "Eva",
-        "imagen1": "images/img18.jpg",
-        "imagen2": "images/img18768.jpg",
-        "imagen3": "images/img181024.jpg",
+        "imagen": "images/img18.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -234,11 +198,9 @@
         "stock": 20
     },
     {
-        "itemId": 19,
+        "id": 19,
         "nombre": "Estambul",
-        "imagen1": "images/img19.jpg",
-        "imagen2": "images/img19768.jpg",
-        "imagen3": "images/img191024.jpg",
+        "imagen": "images/img19.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -247,11 +209,9 @@
         "stock": 20
     },
     {
-        "itemId": 20,
+        "id": 20,
         "nombre": "Londres",
-        "imagen1": "images/img20.jpg",
-        "imagen2": "images/img20768.jpg",
-        "imagen3": "images/img201024.jpg",
+        "imagen": "images/img20.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -260,11 +220,9 @@
         "stock": 20
     },
     {
-        "itemId": 21,
+        "id": 21,
         "nombre": "México",
-        "imagen1": "images/img21.jpg",
-        "imagen2": "images/img21768.jpg",
-        "imagen3": "images/img211024.jpg",
+        "imagen": "images/img21.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -273,11 +231,9 @@
         "stock": 20
     },
     {
-        "itemId": 22,
+        "id": 22,
         "nombre": "Shangai",
-        "imagen1": "images/img22.jpg",
-        "imagen2": "images/img22768.jpg",
-        "imagen3": "images/img221024.jpg",
+        "imagen": "images/img22.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -286,11 +242,9 @@
         "stock": 20
     },
     {
-        "itemId": 23,
+        "id": 23,
         "nombre": "Nueva York",
-        "imagen1": "images/img23.jpg",
-        "imagen2": "images/img23768.jpg",
-        "imagen3": "images/img231024.jpg",
+        "imagen": "images/img23.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -299,11 +253,9 @@
         "stock": 20
     },
     {
-        "itemId": 24,
+        "id": 24,
         "nombre": "Rabat",
-        "imagen1": "images/img24.jpg",
-        "imagen2": "images/img24768.jpg",
-        "imagen3": "images/img241024.jpg",
+        "imagen": "images/img24.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Especial",
         "tono": "Tono Cálido",
@@ -312,11 +264,9 @@
         "stock": 20
     },
     {
-        "itemId": 25,
+        "id": 25,
         "nombre": "Wellington",
-        "imagen1": "images/img25.jpg",
-        "imagen2": "images/img25768.jpg",
-        "imagen3": "images/img251024.jpg",
+        "imagen": "images/img25.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Frio",
@@ -325,11 +275,9 @@
         "stock": 20
     },
     {
-        "itemId": 26,
+        "id": 26,
         "nombre": "Tokio",
-        "imagen1": "images/img26.jpg",
-        "imagen2": "images/img26768.jpg",
-        "imagen3": "images/img261024.jpg",
+        "imagen": "images/img26.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -338,11 +286,9 @@
         "stock": 20
     },
     {
-        "itemId": 27,
+        "id": 27,
         "nombre": "Halloweeen 1",
-        "imagen1": "images/img27.jpg",
-        "imagen2": "images/img27768.jpg",
-        "imagen3": "images/img271024.jpg",
+        "imagen": "images/img27.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Especial",
@@ -351,11 +297,9 @@
         "stock": 20
     },
     {
-        "itemId": 28,
+        "id": 28,
         "nombre": "Halloweeen 2",
-        "imagen1": "images/img28.jpg",
-        "imagen2": "images/img28768.jpg",
-        "imagen3": "images/img281024.jpg",
+        "imagen": "images/img28.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Especial",
@@ -364,11 +308,9 @@
         "stock": 20
     },
     {
-        "itemId": 29,
+        "id": 29,
         "nombre": "Halloweeen 3",
-        "imagen1": "images/img29.jpg",
-        "imagen2": "images/img29768.jpg",
-        "imagen3": "images/img291024.jpg",
+        "imagen": "images/img29.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Especial",
         "tono": "Tono Especial",
@@ -377,11 +319,9 @@
         "stock": 20
     },
     {
-        "itemId": 30,
+        "id": 30,
         "nombre": "Halloweeen 4",
-        "imagen1": "images/img30.jpg",
-        "imagen2": "images/img30768.jpg",
-        "imagen3": "images/img301024.jpg",
+        "imagen": "images/img30.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Negro",
         "tono": "Tono Especial",
@@ -390,11 +330,9 @@
         "stock": 20
     },
     {
-        "itemId": 31,
+        "id": 31,
         "nombre": "Halloweeen 6",
-        "imagen1": "images/img31.jpg",
-        "imagen2": "images/img31768.jpg",
-        "imagen3": "images/img311024.jpg",
+        "imagen": "images/img31.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Especial",
         "tono": "Tono Especial",
@@ -403,11 +341,9 @@
         "stock": 20
     },
     {
-        "itemId": 32,
+        "id": 32,
         "nombre": "Roma",
-        "imagen1": "images/img32.jpg",
-        "imagen2": "images/img32768.jpg",
-        "imagen3": "images/img321024.jpg",
+        "imagen": "images/img32.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Negro",
         "tono": "Tono Cálido",
@@ -416,11 +352,9 @@
         "stock": 20
     },
     {
-        "itemId": 33,
+        "id": 33,
         "nombre": "Buenos Aires",
-        "imagen1": "images/img33.jpg",
-        "imagen2": "images/img33768.jpg",
-        "imagen3": "images/img331024.jpg",
+        "imagen": "images/img33.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Negro",
         "tono": "Tono Cálido",
@@ -429,11 +363,9 @@
         "stock": 20
     },
     {
-        "itemId": 34,
+        "id": 34,
         "nombre": "Pride",
-        "imagen1": "images/img34.jpg",
-        "imagen2": "images/img34768.jpg",
-        "imagen3": "images/img341024.jpg",
+        "imagen": "images/img34.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Especial",
@@ -442,11 +374,9 @@
         "stock": 20
     },
     {
-        "itemId": 35,
+        "id": 35,
         "nombre": "Buenos Aires",
-        "imagen1": "images/img35.jpg",
-        "imagen2": "images/img35768.jpg",
-        "imagen3": "images/img351024.jpg",
+        "imagen": "images/img35.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -455,11 +385,9 @@
         "stock": 20
     },
     {
-        "itemId": 36,
+        "id": 36,
         "nombre": "Vienna",
-        "imagen1": "images/img36.jpg",
-        "imagen2": "images/img36768.jpg",
-        "imagen3": "images/img361024.jpg",
+        "imagen": "images/img36.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -468,11 +396,9 @@
         "stock": 20
     },
     {
-        "itemId": 37,
+        "id": 37,
         "nombre": "Praga",
-        "imagen1": "images/img37.jpg",
-        "imagen2": "images/img37768.jpg",
-        "imagen3": "images/img371024.jpg",
+        "imagen": "images/img37.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Frio",
@@ -481,11 +407,9 @@
         "stock": 20
     },
     {
-        "itemId": 38,
+        "id": 38,
         "nombre": "Neón 1",
-        "imagen1": "images/img38.jpg",
-        "imagen2": "images/img38768.jpg",
-        "imagen3": "images/img381024.jpg",
+        "imagen": "images/img38.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Especial",
@@ -494,11 +418,9 @@
         "stock": 20
     },
     {
-        "itemId": 39,
+        "id": 39,
         "nombre": "Neón 2",
-        "imagen1": "images/img39.jpg",
-        "imagen2": "images/img39768.jpg",
-        "imagen3": "images/img391024.jpg",
+        "imagen": "images/img39.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Especial",
         "tono": "Tono Especial",
@@ -507,11 +429,9 @@
         "stock": 20
     },
     {
-        "itemId": 40,
+        "id": 40,
         "nombre": "Calcuta",
-        "imagen1": "images/img40.jpg",
-        "imagen2": "images/img40768.jpg",
-        "imagen3": "images/img401024.jpg",
+        "imagen": "images/img40.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -520,11 +440,9 @@
         "stock": 20
     },
     {
-        "itemId": 41,
+        "id": 41,
         "nombre": "Bichos",
-        "imagen1": "images/img41.jpg",
-        "imagen2": "images/img41768.jpg",
-        "imagen3": "images/img411024.jpg",
+        "imagen": "images/img41.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Especial",
         "tono": "Tono Especial",
@@ -533,11 +451,9 @@
         "stock": 20
     },
     {
-        "itemId": 42,
+        "id": 42,
         "nombre": "Seúl",
-        "imagen1": "images/img42.jpg",
-        "imagen2": "images/img42768.jpg",
-        "imagen3": "images/img421024.jpg",
+        "imagen": "images/img42.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Frio",
@@ -546,11 +462,9 @@
         "stock": 20
     },
     {
-        "itemId": 43,
+        "id": 43,
         "nombre": "Congo",
-        "imagen1": "images/img43.jpg",
-        "imagen2": "images/img43768.jpg",
-        "imagen3": "images/img431024.jpg",
+        "imagen": "images/img43.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -559,11 +473,9 @@
         "stock": 20
     },
     {
-        "itemId": 44,
+        "id": 44,
         "nombre": "Caracas",
-        "imagen1": "images/img44.jpg",
-        "imagen2": "images/img44768.jpg",
-        "imagen3": "images/img441024.jpg",
+        "imagen": "images/img44.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Negro",
         "tono": "Tono Frio",
@@ -572,11 +484,9 @@
         "stock": 20
     },    
     {
-        "itemId": 45,
+        "id": 45,
         "nombre": "Dubai",
-        "imagen1": "images/img45.jpg",
-        "imagen2": "images/img45768.jpg",
-        "imagen3": "images/img451024.jpg",
+        "imagen": "images/img45.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -585,11 +495,9 @@
         "stock": 20
     },    
     {
-        "itemId": 46,
+        "id": 46,
         "nombre": "Jakarta",
-        "imagen1": "images/img46.jpg",
-        "imagen2": "images/img46768.jpg",
-        "imagen3": "images/img461024.jpg",
+        "imagen": "images/img46.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Cálido",
@@ -598,11 +506,9 @@
         "stock": 20
     },    
     {
-        "itemId": 47,
+        "id": 47,
         "nombre": "Hawaii",
-        "imagen1": "images/img47.jpg",
-        "imagen2": "images/img47768.jpg",
-        "imagen3": "images/img471024.jpg",
+        "imagen": "images/img47.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Especial",
         "tono": "Tono Cálido",
@@ -611,11 +517,9 @@
         "stock": 20
     },    
     {
-        "itemId": 48,
+        "id": 48,
         "nombre": "Kirby",
-        "imagen1": "images/img48.jpg",
-        "imagen2": "images/img48768.jpg",
-        "imagen3": "images/img481024.jpg",
+        "imagen": "images/img48.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Especial",
         "tono": "Tono Especial",
@@ -624,11 +528,9 @@
         "stock": 20
     },    
     {
-        "itemId": 49,
+        "id": 49,
         "nombre": "Cairo",
-        "imagen1": "images/img49.jpg",
-        "imagen2": "images/img49768.jpg",
-        "imagen3": "images/img491024.jpg",
+        "imagen": "images/img49.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Frio",
@@ -637,11 +539,9 @@
         "stock": 20
     },    
     {
-        "itemId": 50,
+        "id": 50,
         "nombre": "Sahara",
-        "imagen1": "images/img50.jpg",
-        "imagen2": "images/img50768.jpg",
-        "imagen3": "images/img501024.jpg",
+        "imagen": "images/img50.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Cálido",
@@ -650,11 +550,9 @@
         "stock": 20
     },    
     {
-        "itemId": 51,
-        "nombre": "Amsterdaj",
-        "imagen1": "images/img51.jpg",
-        "imagen2": "images/img51768.jpg",
-        "imagen3": "images/img511024.jpg",
+        "id": 51,
+        "nombre": "Amsterdan",
+        "imagen": "images/img51.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Cálido",
@@ -663,11 +561,9 @@
         "stock": 20
     },    
     {
-        "itemId": 52,
+        "id": 52,
         "nombre": "Sakura",
-        "imagen1": "images/img52.jpg",
-        "imagen2": "images/img52768.jpg",
-        "imagen3": "images/img521024.jpg",
+        "imagen": "images/img52.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -676,11 +572,9 @@
         "stock": 20
     },    
     {
-        "itemId": 53,
+        "id": 53,
         "nombre": "Madrid",
-        "imagen1": "images/img53.jpg",
-        "imagen2": "images/img53768.jpg",
-        "imagen3": "images/img531024.jpg",
+        "imagen": "images/img53.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -689,11 +583,9 @@
         "stock": 20
     },    
     {
-        "itemId": 54,
+        "id": 54,
         "nombre": "Atenas",
-        "imagen1": "images/img54.jpg",
-        "imagen2": "images/img54768.jpg",
-        "imagen3": "images/img541024.jpg",
+        "imagen": "images/img54.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -702,11 +594,9 @@
         "stock": 20
     },    
     {
-        "itemId": 55,
+        "id": 55,
         "nombre": "Luna",
-        "imagen1": "images/img55.jpg",
-        "imagen2": "images/img55768.jpg",
-        "imagen3": "images/img551024.jpg",
+        "imagen": "images/img55.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -715,11 +605,9 @@
         "stock": 20
     },    
     {
-        "itemId": 56,
+        "id": 56,
         "nombre": "Persa",
-        "imagen1": "images/img56.jpg",
-        "imagen2": "images/img56768.jpg",
-        "imagen3": "images/img561024.jpg",
+        "imagen": "images/img56.jpg",
         "categoría": "Guantes",
         "subcategoría":"Color Piel",
         "tono": "Tono Cálido",
@@ -728,11 +616,9 @@
         "stock": 20
     },    
     {
-        "itemId": 57,
+        "id": 57,
         "nombre": "Neptuno",
-        "imagen1": "images/img57.jpg",
-        "imagen2": "images/img57768.jpg",
-        "imagen3": "images/img571024.jpg",
+        "imagen": "images/img57.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Piel",
         "tono": "Tono Frio",
@@ -741,11 +627,9 @@
         "stock": 20
     },
     {
-        "itemId": 58,
+        "id": 58,
         "nombre": "Saturno",
-        "imagen1": "images/img58.jpg",
-        "imagen2": "images/img58768.jpg",
-        "imagen3": "images/img581024.jpg",
+        "imagen": "images/img58.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -754,11 +638,9 @@
         "stock": 20
     },
     {
-        "itemId": 59,
+        "id": 59,
         "nombre": "Noche",
-        "imagen1": "images/img59.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img59.jpg",
         "categoría": "Guantes",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -767,11 +649,9 @@
         "stock": 20
     },
     {
-        "itemId": 60,
+        "id": 60,
         "nombre": "Durango",
-        "imagen1": "images/img60.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img60.jpg",
         "categoría": "Uñas",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -780,11 +660,9 @@
         "stock": 20
     },
     {
-        "itemId": 61,
+        "id": 61,
         "nombre": "Chachki",
-        "imagen1": "images/img61.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img61.jpg",
         "categoría": "Uñas",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -793,11 +671,9 @@
         "stock": 20
     },
     {
-        "itemId": 62,
+        "id": 62,
         "nombre": "Rainbow",
-        "imagen1": "images/img62.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img62.jpg",
         "categoría": "Uñas",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -806,11 +682,9 @@
         "stock": 20
     },
     {
-        "itemId": 63,
+        "id": 63,
         "nombre": "Ambar",
-        "imagen1": "images/img63.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img63.jpg",
         "categoría": "Uñas",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -819,11 +693,9 @@
         "stock": 20
     },
     {
-        "itemId": 64,
+        "id": 64,
         "nombre": "Saphira",
-        "imagen1": "images/img64.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img64.jpg",
         "categoría": "Uñas",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -832,11 +704,9 @@
         "stock": 20
     },
     {
-        "itemId": 65,
+        "id": 65,
         "nombre": "Peach",
-        "imagen1": "images/img65.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img65.jpg",
         "categoría": "Uñas",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -845,11 +715,9 @@
         "stock": 20
     },
     {
-        "itemId": 66,
+        "id": 66,
         "nombre": "Blau",
-        "imagen1": "images/img66.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img66.jpg",
         "categoría": "Medias",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -858,11 +726,9 @@
         "stock": 20
     },
     {
-        "itemId": 67,
+        "id": 67,
         "nombre": "Grün",
-        "imagen1": "images/img67.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img67.jpg",
         "categoría": "Medias",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -871,11 +737,9 @@
         "stock": 20
     },
     {
-        "itemId": 68,
+        "id": 68,
         "nombre": "Rosé",
-        "imagen1": "images/img68.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img68.jpg",
         "categoría": "Medias",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -884,11 +748,9 @@
         "stock": 20
     },
     {
-        "itemId": 69,
+        "id": 69,
         "nombre": "Rot",
-        "imagen1": "images/img69.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img69.jpg",
         "categoría": "Medias",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -897,11 +759,9 @@
         "stock": 20
     },
     {
-        "itemId": 70,
+        "id": 70,
         "nombre": "Schwartz",
-        "imagen1": "images/img70.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img70.jpg",
         "categoría": "Medias",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",
@@ -910,11 +770,9 @@
         "stock": 20
     },
     {
-        "itemId": 71,
+        "id": 71,
         "nombre": "Aqua",
-        "imagen1": "images/img71.jpg",
-        "imagen2": "images/img59768.jpg",
-        "imagen3": "images/img591024.jpg",
+        "imagen": "images/img71.jpg",
         "categoría": "Medias",
         "subcategoría": "Color Negro",
         "tono": "Tono Especial",

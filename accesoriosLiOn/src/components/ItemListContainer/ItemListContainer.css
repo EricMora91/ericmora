@@ -7,15 +7,20 @@
     width: 100%;
 }
 
+.spinner{
+    height: 1000px;
+    color: black;
+}
+
 @media screen and (min-width: 768px){
     .itemListContainer{
-        padding-top: 11%;
+        padding-top: 9%;
     }
 }
 
 @media screen and (min-width: 1024px){
     .itemListContainer{
-        padding-top: 12%;
+        padding-top: 9%;
         background-color: #ffe2f2;
     }
 }

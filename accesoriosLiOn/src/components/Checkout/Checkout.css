@@ -1,0 +1,23 @@
+.checkout{
+    padding-top: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    background-color: #ffe2f2;
+}
+
+.formulario{
+    border: 5px double goldenrod;
+    border-radius: 5%;
+    padding: 5%;
+}
+
+@media screen and (min-width: 768px){
+    .checkout{
+        padding-top: 15%;
+    }
+
+    .formulario{
+        border-radius: 5%;
+    }
+}
